@@ -7,7 +7,6 @@
 
 [![Responsive Design](https://img.shields.io/badge/Responsive-Design-blueviolet)](#)  
 [![Built with Next.js](https://img.shields.io/badge/Built%20with-Next.js-000?logo=next.js)](#)  
-[![Powered by YouTubeAPI](https://img.shields.io/badge/API-RapidAPI-0052CC?logo=api)](#)  
 [![Open Source](https://img.shields.io/badge/Open%20Source-Love-red.svg)](#)
 
 </div>
